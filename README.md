@@ -2,7 +2,7 @@
 
 The project is completed by **a group of 3 people**.
 
-The goal of this project is to perform music popularity prediction using machine learning techniques, leveraging Spotify's open dataset available on [Kaggle](https://www.kaggle.com/competitions/spotify-popularity-prediction-v2). The dataset comprises various attributes of songs, including acousticness, danceability, energy, tempo, and other features, with popularity as the target variable.
+The goal of this project is to perform music popularity prediction using machine learning techniques, specifically Ridge regression and AdaBoost, leveraging Spotify's open dataset available on [Kaggle](https://www.kaggle.com/competitions/spotify-popularity-prediction-v2). The dataset comprises various attributes of songs, including acousticness, danceability, energy, tempo, and other features, with popularity as the target variable.
 
 ## Project Structure
 The project is organized as follows:
